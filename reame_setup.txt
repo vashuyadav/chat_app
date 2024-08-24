@@ -1,0 +1,6 @@
+Run three server for chatapp
+-----------------------------------------
+npm run dev
+php artisan reverb:start --debug
+php artisan serve
+
